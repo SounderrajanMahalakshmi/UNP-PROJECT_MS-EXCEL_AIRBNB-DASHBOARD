@@ -8,4 +8,4 @@
 
 PDF Link: https://drive.google.com/file/d/1PSeW7uq-2o1Cw0mgPSWXimet2TH8351D/view?usp=sharing
 
-EXCEL Link: https://docs.google.com/spreadsheets/d/1n2EPWbszdwAAIwawBUFobu8ktH1OSklv/edit?usp=sharing&ouid=110241362182406926334&rtpof=true&sd=true
+EXCEL File: https://docs.google.com/spreadsheets/d/1n2EPWbszdwAAIwawBUFobu8ktH1OSklv/edit?usp=sharing&ouid=110241362182406926334&rtpof=true&sd=true
